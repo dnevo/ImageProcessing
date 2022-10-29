@@ -1,1 +1,1 @@
-# Data Files for the Image Processing Course
+Image Processing Course
